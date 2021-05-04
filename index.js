@@ -1,3 +1,3 @@
-console.console.error(("HALP"));
-console.log(("Transaction successful."));
-console.warn(("This is your first warning."));
+console.error("HALP!");
+console.warn("I would be a logger.");
+console.warn("Warning");
