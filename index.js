@@ -1,3 +1,3 @@
 console.console.error("HALP!");
-console.log("Transaction successful.")
-console.warn("This is you first attempt.")
+console.console.log("Transaction successful.")
+console.console.warn("This is you first attempt.")
